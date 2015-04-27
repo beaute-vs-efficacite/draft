@@ -2,6 +2,9 @@
 
 ## Introduction
 
+Anecdote de Thomas sur son restaurant moisie de patates qui a finalement été un
+restaurant 5 étoiles ("écrasé de pommes de terre")
+
 ### Définitions
 
 * Définir "efficacité" : la manière de faire une tâche en dépensant le moins de ressources possible
@@ -12,6 +15,8 @@
  > Est-ce que j'allie correctement la beauté et l'efficacité ?
 
 ## Mise en situation
+
+Projet du client : faire une application d'adoption de chatons
 
 ### 1. POC
 _+++ efficacité_
@@ -40,7 +45,11 @@ _exemple de ce qui peut être fait en full qualité_
 
 On peut tout faire sur le papier ! Mais on l'a pas fait ...
 
-### 3. Merde, la v2, c'est dans 2 mois ...
+#### Done is better than perfect
+
+\*Nothing like a BBC
+
+### 3. Merde, la release, c'est dans 2 mois ...
 _+efficacité_
 
 On drop les tests
@@ -67,23 +76,6 @@ perfs. Et ce, agrégé par ton controller_
 ## Et le prochain projet ?
 
 On recommence, en essayant à chaque fois d'adoucir les extrèmes.
-
-Parler de la progression du dev, de l'équipe et des outils
-
-On garantit de s'imposer un impératif de qualité minimum (efficace mais sans
-aller plus bas que cette limite).
-Plus on fait de la qualité, plus on est efficace à en faire.
-On peut devenir efficace sur un bon niveau de qualité
-
-![GTX970]()
-
-## Done is better than perfect
-
-Ce slogan, moi il me fait un peu peur
-
-Mais voilà comment on recommande de le lire et l'appliquer
-
-\*Nothing like a BBC
 
 ## Est-ce que j'allie correctement la beauté et l'efficacité ?
 
